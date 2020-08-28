@@ -7,5 +7,5 @@ The data is analized in the jupyter notebook file using python 3.7. The data use
 from https://www.gob.mx/salud/documentos/datos-abiertos-152127
 
 Most of the variables of the data correspond to binary values so we can't use Pearson's correlation to 
-analyze the correlation between the different variables, that's the reason we try another aproach. 
+analyze the correlation between the different variables, that's the reason we try another approach. 
 We add some useful references related to this issue.
